@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text](https://github.com/Maina-Dennis/image.jpg?)
 
 <!--
 **Maina-Dennis/Maina-Dennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
