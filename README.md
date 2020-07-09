@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://github.com/settings/profile/Maina-Dennis/image.jpg?)
+![alt text](https://avatars2.githubusercontent.com/u/50301571?s=400&amp;u=f1088590ff8f8a3b038ecf8553e782f5f7714c64&amp;v=4)
 
 <!--
 **Maina-Dennis/Maina-Dennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
