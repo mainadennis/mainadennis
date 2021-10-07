@@ -21,7 +21,7 @@ I'm from Nairobi, Kenya and I've freshly finished my undergraduate program.
 </a>
 
 <a href="https://github.com/maina-dennis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-dennis&hide=css&theme=algolia" width="50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-dennis&hide=css,html&theme=algolia" width="50%"/>
 </a>
 
 <a href="https://github.com/maina-dennis/github-readme-stats">
