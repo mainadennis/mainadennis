@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maina-dennis&hide=css)](https://github.com/maina-dennis/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maina-dennis&repo=github-readme-stats)](https://github.com/maina-dennis/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maina-dennis&repo=An-AI-Chatbot-in-Python-and-Flask)](https://github.com/maina-dennis/An-AI-Chatbot-in-Python-and-Flask)
