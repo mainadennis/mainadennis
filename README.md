@@ -38,7 +38,7 @@ I'm from Nairobi, Kenya and I've freshly finished my undergraduate program.
 [1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
-<!-- Links to your social media accounts -->
+<!-- Links to my social media accounts -->
 
 [1]: https://twitter.com/dennisjmaina
 [2]: https://www.linkedin.com/in/dennismaina/
