@@ -1,7 +1,7 @@
 ![header](https://user-images.githubusercontent.com/50301571/140508612-7f716526-3515-4b93-8359-e76e4e35393b.png)
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Dennis Maina and I'm a software developer.
-I'm from Nairobi, Kenya and I've freshly finished my undergraduate program.
+I'm from Nairobi, Kenya and I've freshly finished my undergraduate program.<br>
 Looking forward to an engaging and knowledgeful environment where I can drive change whilst fueling tech advancement.
 
 ## 🔧 Tools &amp; Technologies
