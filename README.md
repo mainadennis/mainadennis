@@ -16,7 +16,7 @@ Looking forward to an engaging and knowledgeful environment where I can drive ch
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-plus-plus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats*
 <a href="https://github.com/maina-dennis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maina-dennis&count_private=true&show_icons=true&theme=nightowl" width="100%"/>
 </a>
