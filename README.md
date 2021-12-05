@@ -2,7 +2,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 My name is Dennis Maina and I'm a software developer.
 I'm from Nairobi, Kenya and I've freshly finished my undergraduate program.<br>
-Looking forward to an engaging and knowledgeful environment where I can drive change whilst fueling tech advancement
+Looking forward to an engaging and knowledgeful environment where I can drive change whilst fueling tech advancement.
 
 ## 🔧 Tools &amp; Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
