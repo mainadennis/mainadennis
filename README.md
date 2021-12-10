@@ -40,6 +40,5 @@ Looking forward to an engaging and knowledgeful environment where I can drive ch
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Links to my social media accounts -->
-
 [1]: https://twitter.com/dennisjmaina
 [2]: https://www.linkedin.com/in/dennismaina/
