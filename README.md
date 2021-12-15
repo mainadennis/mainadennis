@@ -42,3 +42,4 @@ Looking forward to an engaging and knowledgeful environment where I can drive ch
 <!-- Links to my social media accounts -->
 [1]: https://twitter.com/dennisjmaina
 [2]: https://www.linkedin.com/in/dennismaina/
+[3]: https://instagram.com/denno.h_
