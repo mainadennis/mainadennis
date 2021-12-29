@@ -17,16 +17,16 @@ Looking forward to an engaging and knowledgeful environment where I can drive ch
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats*
-<a href="https://github.com/maina-dennis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maina-dennis&count_private=true&show_icons=true&theme=nightowl" width="100%"/>
+<a href="https://github.com/mainadennis/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mainadennis&count_private=true&show_icons=true&theme=nightowl" width="100%"/>
 </a>
 
-<a href="https://github.com/maina-dennis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-dennis&hide=css,html&theme=algolia" width="50%"/>
+<a href="https://github.com/mainadennis/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainadennis&hide=css,html&theme=algolia" width="50%"/>
 </a>
 
-<a href="https://github.com/maina-dennis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maina-dennis&theme=merko&repo=An-AI-Chatbot-in-Python-and-Flask" width="40%"/>
+<a href="https://github.com/mainadennis/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mainadennis&theme=merko&repo=An-AI-Chatbot-in-Python-and-Flask" width="40%"/>
 </a>
 
 
