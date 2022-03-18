@@ -2,7 +2,8 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 My name is Dennis Maina and I'm a software developer
 I'm from Nairobi, Kenya and I've freshly finished my undergraduate program.<br>
-Looking forward to an engaging and knowledgeful environment where I can drive change whilst fueling tech advancement.
+Looking forward to an engaging and knowledgeful environment where I can drive change whilst fueling tech advancement.</br>
+Email me at: maina@dentricedev.com
 <p>
   <img src ="https://komarev.com/ghpvc/?username=mainadennis&style=plastic&color=f72585"/>
 </p>
