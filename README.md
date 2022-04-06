@@ -42,12 +42,13 @@ Email me at: maina@dentricedev.com
 
 <!-- Actual text -->
 ## Find me on
-[![Twitter][1.2]][1]  [![LinkedIn][2.2]][2]
+[![Twitter][1.2]][1]  [![LinkedIn][2.2]][2] [![StackOverflow][3.3]][4]
 
 <!-- Icons  -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
+[3.3]: https://img.shields.io/badge/stackoverflow-StackOverflow-orange (stackoverflow)
 
 <!-- Links to my social media accounts -->
 [1]: https://twitter.com/dennisjmaina
