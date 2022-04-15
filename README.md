@@ -37,7 +37,7 @@ Email me at: maina@dentricedev.com
 <a href="https://github.com/mainadennis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mainadennis&theme=merko&repo=An-AI-Chatbot-in-Python-and-Flask" width="40%"/>
 </a>
-<!-- <a href="https://github.com/mainadennis/github-readme-activity-graph"><img alt="Dennis Maina's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mainadennis&bg_color=0D1117&point=FFFFFF&hide_border=true&color=f72585&line=f72585" /></a> -->
+<!-- <a href="https://github.com/mainadennis/github-readme-activity-graph"><img alt="Dennis Maina's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mainadennis&bg_color=0D1117&point=FFFFFF&hide_border=true&color=f72585&line=f72585" /></a> ah-->
 
 
 <!-- Actual text -->
