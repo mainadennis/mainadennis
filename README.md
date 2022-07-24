@@ -35,7 +35,7 @@ Email me at: maina@dentricedev.com
 
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Stack-LAMP-informational?style=flat&logo=lamp&logoColor=white&color=2bbc8a)
-![] -->
+-->
 
 ## &#x1f4c8; GitHub Stats*
 <a href="https://github.com/mainadennis/github-readme-stats">
