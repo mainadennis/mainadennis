@@ -1,5 +1,5 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-My name is Dennis Maina and I'm a software developer
+My name is Dennis Maina and I'm a Software Engineer.<br/>
 I'm from Nairobi, Kenya and I've freshly finished my undergraduate program.<br>
 Looking forward to an engaging and knowledgeful environment where I can drive change whilst fueling tech advancement.</br>
 Email me at: maina@dentricedev.com
